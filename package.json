@@ -1,0 +1,21 @@
+{
+    "name": "royal-jaipur",
+    "displayName": "Royal Jaipur",
+    "description": "vs code theme - royal jaipur",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.68.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Royal Jaipur",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Royal Jaipur-color-theme.json"
+            }
+        ]
+    }
+}
